@@ -1,0 +1,24 @@
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.dll.config
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Modelo.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Modelo.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.xml
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Persistencia.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Modelo.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\Modelo.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.xml
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Persistencia\obj\Debug\Persistencia.pdb

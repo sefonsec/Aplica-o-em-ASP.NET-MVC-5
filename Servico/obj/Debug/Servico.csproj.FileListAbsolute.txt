@@ -1,0 +1,22 @@
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Servico.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Servico.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Modelo.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Persistencia.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\EntityFramework.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Modelo.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Persistencia.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\EntityFramework.xml
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Servico.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Servico.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Modelo.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Persistencia.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\EntityFramework.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Modelo.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\Persistencia.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\bin\Debug\EntityFramework.xml
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Servico\obj\Debug\Servico.pdb

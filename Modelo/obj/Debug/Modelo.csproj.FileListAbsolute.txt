@@ -1,0 +1,10 @@
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\bin\Debug\Modelo.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\bin\Debug\Modelo.pdb
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.dll
+E:\Casa do Codigo\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\bin\Debug\Modelo.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\bin\Debug\Modelo.pdb
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.dll
+C:\Meus Arquivos\ASP.NET MVC 5\Exemplos\Capitulo_01\Projeto01\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, inicial-scale=1.0" charset="utf-8" />
+        <title>@ViewBag.Title</title>
+        <link href="@Url.Content("~/content/bootstrap.css")" rel="stylesheet"/>        
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="page-header bg-danger">
+                    <h1>Desenvolvimento em ASP.NET MVC <small class="text-danger">Utilizando o Bootstrap</small>
+                    </h1>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-3 col-md-3 bg-success">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li id="liHome" role="presentation" class="active"><a href="#">Home</a></li>
+                        <li id="liCategorias" role="presentation">@Html.ActionLink("Categorias", "Index", "Categorias", new { area = string.Empty }, null)</li>
+                        <li id="liFabricantes" role="presentation">@Html.ActionLink("Fabricantes", "Index", "Fabricantes", new { area = string.Empty }, null)</li>
+                        <li id="liProdutos" role="presentation">@Html.ActionLink("Produtos", "Index", "Produtos", new { area = string.Empty }, null)</li>
+                        <li id="liUsuarios" role="presentation">@Html.ActionLink("Usuarios", "Index", "Admin", new { area = "Seguranca" }, null)</li>
+                    </ul> 
+                </div>
+                <div class="col-xs-9 col-md-9">
+                    <br/>
+                    @RenderBody()
+                </div>
+            </div>
+            <br/>
+            <div class="row">
+                <div class="col-xs-12 col-md-12 bg-danger">
+                    <small>Layout com Bootstrap</small>
+                </div>
+            </div>
+        </div>
+
+        <script src="@Url.Content("~/Scripts/jquery.validate.js")"></script>
+        <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")"></script>
+
+        <script src="@Url.Content("~/scripts/jquery-1.10.2.js")"></script>
+        <script src="@Url.Content("~/scripts/bootstrap.js")"></script>
+        <script src="@Url.Content("~/scripts/jquery.validate.min.js")"></script>
+        <script src="@Url.Content("~/scripts/jquery.validate.unobtrusive.min.js")"></script>      
+
+        @RenderSection("styles", false)
+        @RenderSection("ScriptPage", false)
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('li').removeClass("active");
+                $('#liHome').addClass("active");
+                $('#liFabricantes').addClass("active");                
+                $('#liCategorias').addClass("active");
+                $('#liProdutos').addClass("active");
+            });
+        </script>
+    </body>
+</html>
